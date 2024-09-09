@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="fab_tambah" type="id" />
+    <item name="et_nama_lengkap" type="id" />
+    <item name="et_nama_mahasiswa" type="id" />
+    <item name="et_nim" type="id" />
+    <item name="sp_program_studi" type="id" />
+    <item name="btn_simpan" type="id" />
+    <item name="nama_lengkap" type="id" />
+    <item name="nim" type="id" />
+    <item name="program_studi" type="id" />
+</resources>
